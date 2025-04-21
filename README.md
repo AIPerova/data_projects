@@ -10,3 +10,4 @@
 | 🎯 Анализ стартапов (банкротство) | [GitHub](https://github.com/AIPerova/data_projects/blob/main/startap/startapp_prj.ipynb) | `Python` `CatBoost` `Optuna` `shap` `phik`|
 | 📉 HR-аналитика (текучесть кадров) | [GitHub](https://github.com/AIPerova/data_projects/tree/main/hr_help_mdl) | `Python` `Scikit-learn` `Matplotlib` `SHAP` `Pandas` |
 | 💰 Персонализация предложений (e-commerce) | [GitHub](https://github.com/AIPerova/data_projects/tree/main/one_click_prj) | `Python` `SelectKBest` `KNeighborsClassifier` `Pipeline` |
+|🚘 Прогнозирование рисков ДТП| [GitHub](https://github.com/AIPerova/data_projects/tree/main/accident_prediction)|`Python` `CatBoost` `SQL` `Pandas` `Sweetviz` `GridSearchCV`|
